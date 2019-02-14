@@ -1,0 +1,4 @@
+#!/bin/bash
+[ -z "$1" ] && (git add . ; git commit . -m 'update' ; git push origin master)
+[ -n "$1" ] && (git add . ; git commit . -m "$1" ; git push origin master)
+
