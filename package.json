@@ -1,6 +1,6 @@
 {
   "name": "@brainchildralph/npm_publish_sample",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Publish npm package sample",
   "main": "index.js",
   "scripts": {
@@ -13,6 +13,5 @@
   "author": "brainchildralph",
   "license": "MIT",
   "devDependencies": {
-    "@enhanceralph/npm_sample": "^1.0.3"
   }
 }
